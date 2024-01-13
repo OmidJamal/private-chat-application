@@ -16,6 +16,12 @@
 }
 
 //------- Style for Register and Login Page-----------//
+
+.errorMessage{
+  color: darkred;
+  font-size: 12px;
+}
+
 .formContainer {
   background-color: #a7bcff;
   height: 100vh;
